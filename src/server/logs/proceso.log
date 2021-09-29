@@ -1,0 +1,662 @@
+[2021-09-28T00:08:10.059Z] [info] Servidor Iniciado en puerto 4001
+[2021-09-28T00:08:26.532Z] [info] Servidor Iniciado en puerto 4001
+[2021-09-28T00:08:55.800Z] [info] Servidor Iniciado en puerto 4001
+[2021-09-28T00:09:14.160Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:17:08.438Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:17:19.690Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:17:37.991Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:21:02.928Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:21:23.568Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:21:46.330Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:21:50.445Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:23:47.859Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:23:58.788Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:24:11.161Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:24:52.385Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:26:29.806Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:26:37.253Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:26:51.079Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:27:58.050Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:30:28.877Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:31:08.534Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:34:10.970Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:34:49.860Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:35:49.743Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:36:21.598Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:36:29.295Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:37:31.568Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:37:56.103Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:39:36.375Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:40:06.797Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:40:13.579Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:41:11.295Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:41:20.197Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:42:28.503Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:43:40.482Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:43:41.691Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:44:02.575Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:51:44.943Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T00:51:44.964Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:51:46.984Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T00:52:01.576Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:52:03.301Z] [error] Error al ejecutar CrearComentario
+[2021-09-28T00:52:03.308Z] [error] Could not find stored procedure ''.
+[2021-09-28T00:52:29.874Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:53:12.836Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:53:14.796Z] [info] crearContactenos finalizada con exito
+[2021-09-28T00:56:42.163Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:56:44.012Z] [info] crearContactenos finalizada con exito
+[2021-09-28T00:58:12.875Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:58:14.793Z] [info] crearContactenos finalizada con exito
+[2021-09-28T00:59:22.197Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T00:59:24.386Z] [info] crearContactenos finalizada con exito
+[2021-09-28T01:00:18.999Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:00:20.881Z] [info] crearContactenos finalizada con exito
+[2021-09-28T01:01:03.641Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:01:05.641Z] [info] crearContactenos finalizada con exito
+[2021-09-28T01:03:43.423Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:03:45.191Z] [info] crearContactenos finalizada con exito
+[2021-09-28T01:05:29.013Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:05:31.099Z] [info] crearContactenos finalizada con exito
+[2021-09-28T01:07:16.757Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T01:07:17.745Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T01:08:27.625Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:08:29.387Z] [info] crearContactenos finalizada con exito
+[2021-09-28T01:11:07.868Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:11:12.414Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:11:32.527Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:11:38.480Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:16:19.164Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:17:24.826Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:17:38.569Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:18:00.454Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:19:00.705Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:23:46.307Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:24:58.594Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:27:23.750Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:28:33.320Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:29:13.379Z] [info] crearContactenos finalizada con exito
+[2021-09-28T01:41:55.157Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:44:05.550Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:44:16.079Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:44:19.819Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:45:14.015Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:48:26.358Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:49:55.544Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:53:31.756Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-28T01:53:44.799Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-28T01:55:06.141Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-28T01:56:06.900Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-28T01:57:44.582Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:59:00.468Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T01:59:07.950Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T02:34:43.351Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T02:35:44.853Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T02:35:49.107Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T02:35:52.930Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T02:40:38.884Z] [info] crearContactenos finalizada con exito
+[2021-09-28T02:49:10.616Z] [info] crearContactenos finalizada con exito
+[2021-09-28T02:57:46.406Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T02:58:39.309Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T02:59:05.512Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T02:59:07.065Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T03:00:31.406Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T03:00:38.525Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T03:00:53.578Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T03:01:18.983Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:01:23.369Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:11:07.826Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:11:11.743Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:11:56.409Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:12:00.515Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:12:32.696Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:12:37.273Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:15:03.112Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:15:07.552Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:16:21.625Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:16:25.566Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:17:25.916Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:17:30.365Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:21:19.942Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:21:24.777Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:22:59.783Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:23:03.799Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:23:37.453Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:23:41.082Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:25:16.246Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:25:20.844Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:26:45.488Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:26:48.986Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:32:43.088Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:32:48.121Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:35:40.083Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:35:44.881Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:37:40.332Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:37:43.893Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:37:51.824Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:37:55.526Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:40:11.878Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T03:40:16.760Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T03:40:43.192Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T03:40:43.469Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T03:41:51.785Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T03:41:53.121Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T03:42:19.369Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T03:42:19.611Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T03:44:02.277Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T03:44:03.504Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T04:02:57.880Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T04:03:02.765Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T04:04:05.272Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T04:04:09.592Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T04:04:19.652Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T04:04:19.916Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T04:04:45.636Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T04:04:45.861Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T04:06:33.277Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T04:06:34.360Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T04:08:21.491Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T04:08:25.182Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T04:08:34.694Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T04:08:34.970Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T04:08:54.834Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T04:08:57.428Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T04:09:02.986Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T04:09:03.245Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T04:09:39.090Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T04:09:43.686Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T04:09:57.389Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T04:09:57.920Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T04:10:34.967Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T04:10:38.439Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T04:10:39.899Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T04:10:42.594Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T04:10:50.609Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T04:10:50.875Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T04:11:30.426Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T04:11:33.968Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T04:12:23.225Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T04:12:24.283Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T04:13:32.983Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T04:13:37.126Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T04:16:24.193Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T04:16:30.873Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T23:16:52.970Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-28T23:18:21.032Z] [info] crearContactenos finalizada con exito
+[2021-09-28T23:19:34.590Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T23:19:39.806Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T23:27:47.119Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T23:27:48.556Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T23:29:16.979Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T23:29:23.269Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T23:31:18.983Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T23:31:20.083Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T23:35:56.531Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T23:36:02.112Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T23:36:25.081Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T23:36:25.324Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T23:36:46.769Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T23:36:51.820Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T23:37:17.753Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T23:37:17.983Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T23:38:22.332Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T23:38:23.745Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T23:38:34.589Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T23:38:36.872Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T23:38:36.920Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T23:38:41.701Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T23:39:02.677Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T23:39:02.968Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T23:40:36.907Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T23:40:42.265Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T23:41:06.655Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T23:41:06.899Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T23:41:51.766Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T23:41:57.700Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T23:42:10.472Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T23:42:10.715Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T23:43:34.865Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T23:43:41.326Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T23:43:52.924Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-28T23:43:53.185Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-28T23:47:09.901Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-28T23:47:15.177Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-28T23:59:56.538Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T00:02:43.573Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T00:02:50.601Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T00:03:47.464Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T00:04:03.987Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T00:06:26.756Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T00:32:37.960Z] [error] Error al ejecutar BusquedaColegioVacantes
+[2021-09-29T00:32:37.968Z] [error] Procedure or function 'inserFormularioEstudiante' expects parameter '@p_idVacante', which was not supplied.
+[2021-09-29T00:33:39.256Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T00:33:51.378Z] [error] Error al ejecutar BusquedaColegioVacantes
+[2021-09-29T00:33:51.383Z] [error] Procedure or function 'inserFormularioEstudiante' expects parameter '@p_idVacante', which was not supplied.
+[2021-09-29T00:35:37.136Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T00:35:50.512Z] [error] Error al ejecutar BusquedaColegioVacantes
+[2021-09-29T00:35:50.516Z] [error] String or binary data would be truncated in table 'bdproyectomatricula.dbo.Formulario', column 'docApoderadoFormulario'. Truncated value: 'zxczxcczxzCX'.
+[2021-09-29T00:37:22.156Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T00:37:29.157Z] [error] Error al ejecutar BusquedaColegioVacantes
+[2021-09-29T00:37:29.158Z] [error] String or binary data would be truncated in table 'bdproyectomatricula.dbo.Formulario', column 'docApoderadoFormulario'. Truncated value: 'zxczxcczxzCX'.
+[2021-09-29T00:39:55.581Z] [info] crearContactenos finalizada con exito
+[2021-09-29T01:42:06.414Z] [info] crearContactenos finalizada con exito
+[2021-09-29T01:42:29.185Z] [info] crearContactenos finalizada con exito
+[2021-09-29T01:42:49.623Z] [info] crearContactenos finalizada con exito
+[2021-09-29T01:47:05.118Z] [info] crearContactenos finalizada con exito
+[2021-09-29T01:47:05.146Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T01:47:09.720Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T01:48:33.611Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T01:48:39.750Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T01:49:03.754Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T01:49:08.569Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T01:50:16.956Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T01:50:22.503Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T01:54:27.149Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T01:54:33.854Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T01:54:50.075Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T01:54:50.357Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T01:56:49.316Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T01:56:55.419Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T01:57:06.191Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T01:57:06.426Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T01:57:49.349Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T01:57:54.321Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:01:56.407Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:02:02.444Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:02:12.330Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:02:16.367Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:04:30.488Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:04:36.182Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:08:11.292Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T02:08:32.034Z] [info] crearContactenos finalizada con exito
+[2021-09-29T02:10:46.951Z] [info] crearContactenos finalizada con exito
+[2021-09-29T02:10:54.286Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:11:16.255Z] [error] Error al ejecutar BusquedaColegioVacantes
+[2021-09-29T02:11:16.261Z] [error] Timeout: Request failed to complete in 15000ms
+[2021-09-29T02:15:15.360Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:15:22.187Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:15:43.356Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T02:15:43.648Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T02:16:05.690Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T02:16:05.956Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T02:16:24.515Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T02:16:24.784Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T02:16:32.239Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T02:16:32.515Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T02:16:38.471Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T02:16:38.729Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T02:16:43.416Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T02:16:43.750Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T02:18:13.053Z] [info] crearContactenos finalizada con exito
+[2021-09-29T02:18:13.081Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:18:18.507Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:20:04.749Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T02:20:06.122Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T02:20:58.584Z] [info] crearContactenos finalizada con exito
+[2021-09-29T02:20:58.609Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:21:03.982Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:21:22.789Z] [info] crearContactenos finalizada con exito
+[2021-09-29T02:21:29.581Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:21:33.999Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:29:11.442Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:29:17.242Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:32:17.414Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T02:33:12.954Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:33:19.103Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:40:51.555Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:40:57.069Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:41:52.256Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:41:57.744Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:43:45.521Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:43:50.482Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:46:08.038Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:46:13.499Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:49:49.348Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:49:56.520Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:50:18.053Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T02:52:23.228Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:52:28.439Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:52:43.260Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T02:52:43.518Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T02:56:18.409Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:56:24.095Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T02:56:36.621Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T02:56:36.874Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T02:59:28.954Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T02:59:35.366Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T03:00:05.608Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T03:00:05.914Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T03:01:38.075Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T03:02:03.782Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T03:02:10.617Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T03:03:49.657Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T03:05:51.039Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T03:08:52.603Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T03:12:08.960Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T03:17:17.498Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T03:19:05.678Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T03:20:53.710Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T03:24:03.582Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T03:24:08.171Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T03:24:22.870Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T03:25:00.554Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T03:26:52.897Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T03:27:01.618Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T03:32:00.028Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T03:32:05.520Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T03:39:05.327Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T03:41:09.450Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T03:41:29.903Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T03:45:11.672Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T03:45:14.168Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T03:47:47.995Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T03:47:49.596Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T03:48:14.408Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T03:48:14.654Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T03:50:47.889Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T03:50:49.264Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T03:51:48.725Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T03:51:49.998Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T03:52:36.998Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T03:52:39.084Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T03:53:49.668Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T03:53:51.567Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T03:54:06.280Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T03:54:06.562Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T03:54:36.841Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T03:54:38.366Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T03:56:36.983Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T03:56:39.109Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:02:30.465Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T04:02:34.669Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T04:06:45.601Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T04:09:35.217Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:09:38.234Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:10:16.980Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:10:18.263Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:11:17.947Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:11:19.594Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:11:51.878Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:11:53.243Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:11:55.398Z] [info] Ejecutando aprobarSolicitud
+[2021-09-29T04:11:55.728Z] [info] aprobarSolicitud finalizada con exito
+[2021-09-29T04:12:07.859Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:12:08.109Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:12:29.850Z] [info] Ejecutando aprobarSolicitud
+[2021-09-29T04:12:30.130Z] [info] aprobarSolicitud finalizada con exito
+[2021-09-29T04:12:33.279Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:12:33.528Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:13:30.086Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:13:31.412Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:13:35.416Z] [info] Ejecutando aprobarSolicitud
+[2021-09-29T04:13:35.702Z] [info] aprobarSolicitud finalizada con exito
+[2021-09-29T04:13:35.714Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:13:35.974Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:14:44.595Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:14:45.799Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:14:48.573Z] [info] Ejecutando recharzarSolicitud
+[2021-09-29T04:14:48.889Z] [info] recharzarSolicitud finalizada con exito
+[2021-09-29T04:14:48.898Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:14:49.165Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:16:57.454Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T04:17:02.843Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T04:17:04.932Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:17:05.167Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:23:12.943Z] [info] Ejecutando aprobarSolicitud
+[2021-09-29T04:23:16.637Z] [info] Ejecutando aprobarSolicitud
+[2021-09-29T04:23:17.954Z] [info] aprobarSolicitud finalizada con exito
+[2021-09-29T04:23:17.959Z] [info] aprobarSolicitud finalizada con exito
+[2021-09-29T04:23:17.967Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:23:18.231Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:23:18.238Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:23:18.495Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:36:47.547Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T04:39:14.192Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T04:39:57.598Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T04:40:24.327Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T04:41:15.445Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T04:41:24.694Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T04:41:35.487Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:41:37.923Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:42:12.597Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:42:13.849Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:42:34.448Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:42:34.718Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:43:48.794Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:43:50.476Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:44:39.350Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T04:44:40.609Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T04:58:35.782Z] [info] Ejecutando crearSeccion_Colegio
+[2021-09-29T04:58:37.216Z] [error] Error al ejecutar crearSeccion_Colegio
+[2021-09-29T04:58:37.222Z] [error] Cannot insert the value NULL into column 'idVacante', table 'bdproyectomatricula.dbo.Vacante'; column does not allow nulls. INSERT fails.
+[2021-09-29T05:00:25.908Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T05:01:46.976Z] [info] Ejecutando crearSeccion_Colegio
+[2021-09-29T05:01:49.185Z] [error] Error al ejecutar crearSeccion_Colegio
+[2021-09-29T05:01:49.189Z] [error] Procedure or function 'CrearSeccionColegio' expects parameter '@p_vacante', which was not supplied.
+[2021-09-29T05:02:02.933Z] [info] Ejecutando crearSeccion_Colegio
+[2021-09-29T05:02:03.199Z] [error] Error al ejecutar crearSeccion_Colegio
+[2021-09-29T05:02:03.203Z] [error] Procedure or function 'CrearSeccionColegio' expects parameter '@p_vacante', which was not supplied.
+[2021-09-29T05:03:59.525Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T05:04:02.497Z] [info] Ejecutando crearSeccion_Colegio
+[2021-09-29T05:04:04.570Z] [error] Error al ejecutar crearSeccion_Colegio
+[2021-09-29T05:04:04.573Z] [error] Cannot insert the value NULL into column 'idVacante', table 'bdproyectomatricula.dbo.Vacante'; column does not allow nulls. INSERT fails.
+[2021-09-29T05:13:55.408Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T05:14:08.048Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T05:16:10.776Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T05:17:01.208Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T05:18:34.658Z] [info] Ejecutando obtenerColegios
+[2021-09-29T05:18:36.912Z] [info] obtenerColegios finalizada con exito
+[2021-09-29T05:20:31.167Z] [info] Ejecutando obtenerColegios
+[2021-09-29T05:20:32.517Z] [info] obtenerColegios finalizada con exito
+[2021-09-29T05:21:09.286Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T05:21:14.994Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T05:21:25.549Z] [info] Ejecutando obtenerColegios
+[2021-09-29T05:21:25.826Z] [info] obtenerColegios finalizada con exito
+[2021-09-29T05:21:39.468Z] [info] Ejecutando obtenerColegios
+[2021-09-29T05:21:39.738Z] [info] obtenerColegios finalizada con exito
+[2021-09-29T05:21:43.842Z] [info] Ejecutando obtenerColegios
+[2021-09-29T05:21:44.134Z] [info] obtenerColegios finalizada con exito
+[2021-09-29T05:22:42.823Z] [info] Ejecutando crearSeccion_Colegio
+[2021-09-29T05:22:44.097Z] [error] Error al ejecutar crearSeccion_Colegio
+[2021-09-29T05:22:44.103Z] [error] Cannot insert the value NULL into column 'idVacante', table 'bdproyectomatricula.dbo.Vacante'; column does not allow nulls. INSERT fails.
+[2021-09-29T05:24:24.115Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T05:24:40.864Z] [info] Ejecutando crearSeccion_Colegio
+[2021-09-29T05:24:42.993Z] [error] Error al ejecutar crearSeccion_Colegio
+[2021-09-29T05:24:42.994Z] [error] Cannot insert the value NULL into column 'idVacante', table 'bdproyectomatricula.dbo.Vacante'; column does not allow nulls. INSERT fails.
+[2021-09-29T05:32:38.912Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T05:32:44.432Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T05:38:23.948Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T05:38:49.118Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T05:42:39.380Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T05:52:34.356Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T05:52:46.596Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T05:52:48.931Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T05:52:56.828Z] [info] Ejecutando obtenerColegios
+[2021-09-29T05:52:57.095Z] [info] obtenerColegios finalizada con exito
+[2021-09-29T05:53:35.966Z] [info] Ejecutando crearSeccion_Colegio
+[2021-09-29T05:53:37.184Z] [error] Error al ejecutar crearSeccion_Colegio
+[2021-09-29T05:53:37.190Z] [error] The COMMIT TRANSACTION request has no corresponding BEGIN TRANSACTION.
+[2021-09-29T05:54:34.206Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T05:54:34.211Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T05:54:35.482Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T05:54:40.337Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T05:55:26.156Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T05:55:26.158Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T05:55:29.414Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T05:55:33.468Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T05:56:52.698Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T05:56:52.714Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T05:56:57.152Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T05:57:00.861Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T05:57:00.885Z] [info] Ejecutando obtenerUbicacionColegio
+[2021-09-29T05:57:00.889Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T05:57:03.986Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T05:57:07.779Z] [info] obtenerUbicacionColegio finalizada con exito
+[2021-09-29T05:57:20.605Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T05:57:20.877Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T05:57:51.953Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T05:57:53.235Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T05:58:18.887Z] [info] Ejecutando obtenerColegios
+[2021-09-29T05:58:19.153Z] [info] obtenerColegios finalizada con exito
+[2021-09-29T05:58:52.702Z] [info] Ejecutando crearSeccion_Colegio
+[2021-09-29T05:58:54.038Z] [error] Error al ejecutar crearSeccion_Colegio
+[2021-09-29T05:58:54.041Z] [error] The COMMIT TRANSACTION request has no corresponding BEGIN TRANSACTION.
+[2021-09-29T06:03:12.716Z] [info] Ejecutando obtenerColegios
+[2021-09-29T06:03:14.113Z] [info] obtenerColegios finalizada con exito
+[2021-09-29T06:04:43.405Z] [info] Ejecutando obtenerColegios
+[2021-09-29T06:04:44.704Z] [info] obtenerColegios finalizada con exito
+[2021-09-29T06:04:47.156Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:04:47.590Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T06:04:59.190Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T06:04:59.514Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T06:05:59.861Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:06:01.797Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T06:06:18.332Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T06:06:18.781Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T06:06:20.903Z] [info] Ejecutando obtenerDistritoColegioColegio
+[2021-09-29T06:06:21.173Z] [info] obtenerDistritoColegioColegio finalizada con exito
+[2021-09-29T06:06:31.565Z] [info] Ejecutando obtenerDistritoColegioColegio
+[2021-09-29T06:06:31.810Z] [info] obtenerDistritoColegioColegio finalizada con exito
+[2021-09-29T06:06:40.956Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T06:06:41.212Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T06:06:54.832Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:06:55.583Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T06:06:58.078Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T06:06:58.326Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T06:06:59.804Z] [info] Ejecutando obtenerDistritoColegioColegio
+[2021-09-29T06:07:00.315Z] [info] obtenerDistritoColegioColegio finalizada con exito
+[2021-09-29T06:07:10.423Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T06:07:10.660Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T06:07:18.073Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T06:07:18.678Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T06:08:06.214Z] [info] Ejecutando obtenerDistritoColegioColegio
+[2021-09-29T06:08:07.521Z] [info] obtenerDistritoColegioColegio finalizada con exito
+[2021-09-29T06:08:11.403Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T06:08:11.657Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T06:08:54.410Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:08:56.566Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T06:08:59.706Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T06:09:00.190Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T06:09:03.325Z] [info] Ejecutando obtenerDistritoColegioColegio
+[2021-09-29T06:09:03.613Z] [info] obtenerDistritoColegioColegio finalizada con exito
+[2021-09-29T06:09:08.987Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T06:09:09.233Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T06:09:30.590Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T06:09:30.869Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T06:10:24.532Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:10:25.908Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T06:10:33.781Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T06:10:34.032Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T06:10:35.994Z] [info] Ejecutando obtenerDistritoColegioColegio
+[2021-09-29T06:10:36.512Z] [info] obtenerDistritoColegioColegio finalizada con exito
+[2021-09-29T06:10:41.900Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T06:10:42.140Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T06:10:44.718Z] [info] Ejecutando obtenerDistritoColegioColegio
+[2021-09-29T06:10:44.965Z] [info] obtenerDistritoColegioColegio finalizada con exito
+[2021-09-29T06:10:48.718Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T06:10:48.976Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T06:10:50.080Z] [info] Ejecutando obtenerDistritoColegioColegio
+[2021-09-29T06:10:50.593Z] [info] obtenerDistritoColegioColegio finalizada con exito
+[2021-09-29T06:11:12.416Z] [info] Ejecutando obtenerColegios
+[2021-09-29T06:11:12.679Z] [info] obtenerColegios finalizada con exito
+[2021-09-29T06:38:23.602Z] [info] Servidor Iniciado en puerto 4002
+[2021-09-29T06:44:45.995Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:44:48.573Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T06:45:00.522Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T06:45:00.904Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T06:45:03.106Z] [info] Ejecutando obtenerDistritoColegioColegio
+[2021-09-29T06:45:03.444Z] [info] obtenerDistritoColegioColegio finalizada con exito
+[2021-09-29T06:45:09.882Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T06:45:10.180Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T06:46:32.266Z] [error] Error al ejecutar BusquedaColegioVacantes
+[2021-09-29T06:46:32.267Z] [error] The COMMIT TRANSACTION request has no corresponding BEGIN TRANSACTION.
+[2021-09-29T06:54:09.121Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:54:21.077Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:54:24.623Z] [error] Error al ejecutar obtenerDepartamentos
+[2021-09-29T06:54:24.630Z] [error] Failed to connect to sqlproyectoupc2021.database.windows.net:1433 in 15000ms
+[2021-09-29T06:54:36.483Z] [error] Error al ejecutar obtenerDepartamentos
+[2021-09-29T06:54:36.496Z] [error] Failed to connect to sqlproyectoupc2021.database.windows.net:1433 in 15000ms
+[2021-09-29T06:54:41.932Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:54:56.988Z] [error] Error al ejecutar obtenerDepartamentos
+[2021-09-29T06:54:58.574Z] [error] Failed to connect to sqlproyectoupc2021.database.windows.net:1433 in 15000ms
+[2021-09-29T06:55:17.442Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:55:32.623Z] [error] Error al ejecutar obtenerDepartamentos
+[2021-09-29T06:55:32.629Z] [error] Failed to connect to sqlproyectoupc2021.database.windows.net:1433 in 15000ms
+[2021-09-29T06:55:57.110Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:56:12.088Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:56:12.393Z] [error] Error al ejecutar obtenerDepartamentos
+[2021-09-29T06:56:13.135Z] [error] Failed to connect to sqlproyectoupc2021.database.windows.net:1433 in 15000ms
+[2021-09-29T06:56:28.246Z] [error] Error al ejecutar obtenerDepartamentos
+[2021-09-29T06:56:28.638Z] [error] Failed to connect to sqlproyectoupc2021.database.windows.net:1433 in 15000ms
+[2021-09-29T06:56:29.707Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:56:45.367Z] [error] Error al ejecutar obtenerDepartamentos
+[2021-09-29T06:56:45.369Z] [error] Failed to connect to sqlproyectoupc2021.database.windows.net:1433 in 15000ms
+[2021-09-29T06:57:47.108Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:57:49.648Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T06:57:53.845Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T06:58:01.113Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T06:58:03.777Z] [info] Ejecutando obtenerDistritoColegioColegio
+[2021-09-29T06:58:04.183Z] [info] obtenerDistritoColegioColegio finalizada con exito
+[2021-09-29T06:58:10.717Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T06:58:10.996Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T06:58:16.996Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T06:58:17.275Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T06:59:08.122Z] [error] Error al ejecutar BusquedaColegioVacantes
+[2021-09-29T06:59:08.122Z] [error] The COMMIT TRANSACTION request has no corresponding BEGIN TRANSACTION.
+[2021-09-29T06:59:08.245Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T06:59:08.598Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T07:00:33.308Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T07:00:55.387Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T07:00:56.159Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T07:01:02.952Z] [info] Ejecutando aprobarSolicitud
+[2021-09-29T07:01:03.248Z] [error] Error al ejecutar aprobarSolicitud
+[2021-09-29T07:01:03.249Z] [error] The COMMIT TRANSACTION request has no corresponding BEGIN TRANSACTION.
+[2021-09-29T07:01:03.268Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T07:01:03.536Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T07:01:33.776Z] [info] Ejecutando busquedaFormularioxDnixCodigoformulario
+[2021-09-29T07:01:47.360Z] [info] Ejecutando obtenerColegios
+[2021-09-29T07:01:48.210Z] [info] obtenerColegios finalizada con exito
+[2021-09-29T07:02:25.771Z] [info] Ejecutando crearSeccion_Colegio
+[2021-09-29T07:02:26.975Z] [error] Error al ejecutar crearSeccion_Colegio
+[2021-09-29T07:02:26.975Z] [error] The COMMIT TRANSACTION request has no corresponding BEGIN TRANSACTION.
+[2021-09-29T07:04:15.080Z] [info] Ejecutando obtenerColegios
+[2021-09-29T07:04:16.504Z] [info] obtenerColegios finalizada con exito
+[2021-09-29T07:04:30.346Z] [info] Ejecutando obtenerColegios
+[2021-09-29T07:04:30.650Z] [info] obtenerColegios finalizada con exito
+[2021-09-29T07:04:44.388Z] [info] Ejecutando obtenerColegios
+[2021-09-29T07:04:44.823Z] [info] obtenerColegios finalizada con exito
+[2021-09-29T07:05:01.477Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T07:05:01.873Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T07:05:09.919Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T07:05:10.608Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T07:05:13.856Z] [info] Ejecutando obtenerDistritoColegioColegio
+[2021-09-29T07:05:14.178Z] [info] obtenerDistritoColegioColegio finalizada con exito
+[2021-09-29T07:05:20.839Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T07:05:21.140Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T07:05:28.507Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T07:05:28.906Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T07:05:32.524Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T07:05:32.836Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T07:05:48.538Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T07:05:49.545Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T07:05:53.946Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T07:05:54.367Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T07:05:57.155Z] [info] Ejecutando obtenerDistritoColegioColegio
+[2021-09-29T07:05:57.571Z] [info] obtenerDistritoColegioColegio finalizada con exito
+[2021-09-29T07:06:02.611Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T07:06:02.937Z] [info] BusquedaColegioVacantes finalizada con exito
+[2021-09-29T07:06:27.470Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T07:06:27.787Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T07:06:32.377Z] [info] Ejecutando aprobarSolicitud
+[2021-09-29T07:06:32.694Z] [error] Error al ejecutar aprobarSolicitud
+[2021-09-29T07:06:32.696Z] [error] The COMMIT TRANSACTION request has no corresponding BEGIN TRANSACTION.
+[2021-09-29T07:06:32.741Z] [info] Ejecutando listarSolicitudes
+[2021-09-29T07:06:33.040Z] [info] listarSolicitudes finalizada con exito
+[2021-09-29T07:06:36.834Z] [info] Ejecutando obtenerDepartamentos
+[2021-09-29T07:06:37.197Z] [info] obtenerDepartamentos finalizada con exito
+[2021-09-29T07:06:41.886Z] [info] Ejecutando obtenerProvinciaColegioColegio
+[2021-09-29T07:06:42.293Z] [info] obtenerProvinciaColegioColegio finalizada con exito
+[2021-09-29T07:06:45.105Z] [info] Ejecutando obtenerDistritoColegioColegio
+[2021-09-29T07:06:45.499Z] [info] obtenerDistritoColegioColegio finalizada con exito
+[2021-09-29T07:06:50.387Z] [info] Ejecutando busquedaColegioVacantes
+[2021-09-29T07:06:50.799Z] [info] BusquedaColegioVacantes finalizada con exito
